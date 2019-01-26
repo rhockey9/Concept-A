@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:09
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-american-football-ball-stroke:before { content: "\f100"; }
+.flaticon-arrow-on-the-center-of-the-target:before { content: "\f101"; }
+.flaticon-award-badge-outlined-symbol-of-stroke-for-sports:before { content: "\f102"; }
+.flaticon-award-badge-with-a-star-for-sports:before { content: "\f103"; }
+.flaticon-award-sportive-badge-symbol-of-stroke:before { content: "\f104"; }
+.flaticon-award-with-a-star:before { content: "\f105"; }
+.flaticon-ball-of-american-football-outlined-sportive-symbol:before { content: "\f106"; }
+.flaticon-ball-of-baseball:before { content: "\f107"; }
+.flaticon-baseball-bat-and-ball-outlines:before { content: "\f108"; }
+.flaticon-basket-of-basketball-stroke-sportive-symbol:before { content: "\f109"; }
+.flaticon-basketball-ball-outline:before { content: "\f10a"; }
+.flaticon-basketball-outlined-ball-symbol:before { content: "\f10b"; }
+.flaticon-billiard-ball-outline-with-number-eight:before { content: "\f10c"; }
+.flaticon-bowling-ball-and-pin-outline:before { content: "\f10d"; }
+.flaticon-bowling-ball-sportive-object-outline:before { content: "\f10e"; }
+.flaticon-bowling-pins-outline:before { content: "\f10f"; }
+.flaticon-boxing-glove-stroke:before { content: "\f110"; }
+.flaticon-checkered-flag-sports-tool:before { content: "\f111"; }
+.flaticon-chronometer-outlined-tool-symbol-of-sports:before { content: "\f112"; }
+.flaticon-clipboard-with-game-strategy-sketch:before { content: "\f113"; }
+.flaticon-diving-googles-outlined-sportive-tool-symbol:before { content: "\f114"; }
+.flaticon-golf-hole-and-flag-outlined-sportive-symbol:before { content: "\f115"; }
+.flaticon-hockey-stick-and-ball-sportive-symbol:before { content: "\f116"; }
+.flaticon-ice-skating-shoe:before { content: "\f117"; }
+.flaticon-medal-outline:before { content: "\f118"; }
+.flaticon-medal-stroke-sportive-symbol:before { content: "\f119"; }
+.flaticon-medal-with-a-star:before { content: "\f11a"; }
+.flaticon-sailboat-stroke:before { content: "\f11b"; }
+.flaticon-sailing-boat-sportive-transport:before { content: "\f11c"; }
+.flaticon-shuttlecock-stroke-sports-symbol:before { content: "\f11d"; }
+.flaticon-soccer-ball-outlined-sportive-object:before { content: "\f11e"; }
+.flaticon-soccer-field-top-view-stroke-symbol:before { content: "\f11f"; }
+.flaticon-soccer-shoe-outline:before { content: "\f120"; }
+.flaticon-sportive-shoe-stroke:before { content: "\f121"; }
+.flaticon-star-medal-necklace-sportive-symbol:before { content: "\f122"; }
+.flaticon-stopwatch-outlined-sportive-tool-symbol:before { content: "\f123"; }
+.flaticon-strategic-movement-sketch-of-sportive-instructions:before { content: "\f124"; }
+.flaticon-table-tennis-outlined-symbol:before { content: "\f125"; }
+.flaticon-target-concentric-circles-symbol:before { content: "\f126"; }
+.flaticon-tennis-ball-outlined-object-symbol:before { content: "\f127"; }
+.flaticon-tennis-ball-stroke:before { content: "\f128"; }
+.flaticon-tennis-racket:before { content: "\f129"; }
+.flaticon-trophy-for-the-winner-of-first-place:before { content: "\f12a"; }
+.flaticon-trophy-outlined-sportive-cup-shape:before { content: "\f12b"; }
+.flaticon-trophy-stroke-symbol-for-sports-winners-prizes:before { content: "\f12c"; }
+.flaticon-two-hockey-sticks-outline:before { content: "\f12d"; }
+.flaticon-volleyball-ball-outline:before { content: "\f12e"; }
+.flaticon-water-volleyball-ball-floating-outlined-sportive-object:before { content: "\f12f"; }
+.flaticon-weights:before { content: "\f130"; }
+.flaticon-whistle-stroke:before { content: "\f131"; }
